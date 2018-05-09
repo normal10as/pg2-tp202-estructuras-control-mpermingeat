@@ -4,3 +4,9 @@ C:\Users\Max\Desktop\programacion\programacion2\estrucflujocontrol\obj\x86\Debug
 C:\Users\Max\Desktop\programacion\programacion2\estrucflujocontrol\obj\x86\Debug\estructurasflujo.vbproj.CoreCompileInputs.cache
 C:\Users\Max\Desktop\programacion\programacion2\estrucflujocontrol\obj\x86\Debug\programcion2.exe
 C:\Users\Max\Desktop\programacion\programacion2\estrucflujocontrol\obj\x86\Debug\programcion2.pdb
+C:\Users\Max\Desktop\programacion\programacion2\estrucflujocontrol\pg2-tp202-estructuras-control-mpermingeat\bin\Debug\programcion2.exe
+C:\Users\Max\Desktop\programacion\programacion2\estrucflujocontrol\pg2-tp202-estructuras-control-mpermingeat\bin\Debug\programcion2.pdb
+C:\Users\Max\Desktop\programacion\programacion2\estrucflujocontrol\pg2-tp202-estructuras-control-mpermingeat\obj\x86\Debug\estructurasflujo.vbprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\programacion\programacion2\estrucflujocontrol\pg2-tp202-estructuras-control-mpermingeat\obj\x86\Debug\estructurasflujo.vbproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\programacion\programacion2\estrucflujocontrol\pg2-tp202-estructuras-control-mpermingeat\obj\x86\Debug\programcion2.exe
+C:\Users\Max\Desktop\programacion\programacion2\estrucflujocontrol\pg2-tp202-estructuras-control-mpermingeat\obj\x86\Debug\programcion2.pdb

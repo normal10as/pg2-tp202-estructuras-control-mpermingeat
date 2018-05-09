@@ -11,25 +11,52 @@
         b = Console.ReadLine()
         Console.WriteLine(" ")
         x = a
+        Do While x <= b
+
+
+            If (x Mod 5 = 0) Then
+                Console.WriteLine("do while loop : " & x)
+            End If
+            x += 1
+        Loop
+        Console.WriteLine("-----------------------------")
+        x = a
+        Do Until x = (b + 1)
+
+            If (x Mod 5 = 0) Then
+                Console.WriteLine("do until loop : " & x)
+            End If
+            x += 1
+        Loop
+        Console.WriteLine("-----------------------------")
+        x = a
+
         Do
 
 
             If (x Mod 5 = 0) Then
-                Console.WriteLine("loop do while: " & x)
+                Console.WriteLine("do loop while: " & x)
             End If
             x += 1
-        Loop While x < b
-
+        Loop While x <= b
+        Console.WriteLine("-----------------------------")
         x = a
         Do
 
             If (x Mod 5 = 0) Then
-                Console.WriteLine("loop do until: " & x)
+                Console.WriteLine("do loop until: " & x)
             End If
             x += 1
-        Loop Until x = b
+        Loop Until x = (b + 1)
+        Console.WriteLine("-----------------------------")
+        x = a
+        For y As Int16 = a To b
 
+            If (y Mod 5 = 0) Then
+                Console.WriteLine("for: " & y)
+            End If
 
+        Next
 
 
     End Sub
