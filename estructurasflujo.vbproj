@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProjectGuid>{F149C731-9CD0-45F3-9C5D-6FD0BD9637A1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>programacion2.ejercicio212</StartupObject>
+    <StartupObject>programacion2.ejercicio215</StartupObject>
     <RootNamespace>programacion2</RootNamespace>
     <AssemblyName>programcion2</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -78,6 +78,9 @@
     <Compile Include="ejercicio209.vb" />
     <Compile Include="ejercicio211.vb" />
     <Compile Include="ejercicio212.vb" />
+    <Compile Include="ejercicio213.vb" />
+    <Compile Include="ejercicio214.vb" />
+    <Compile Include="ejercicio215.vb" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.Targets" />
   <ProjectExtensions>
